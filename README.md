@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slouie88
 - 👀 I’m interested in Software Development and Artificial Intelligence
 - 🌱 I’m currently learning a new programming language in C# by building a simple RPG
-- 💞️ I’m looking for opportunities to apply programming and machine learning skills in the workforce
+- 💞️ I’m looking for opportunities to apply programming and/or machine learning skills in the workforce
 - 📫 How to reach me: email - stefan.louie@gmail.com
 
 <!---
