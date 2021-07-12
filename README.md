@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slouie88
+- 👋 Hi, I’m Stefan
 - 👀 I’m interested in Software Development and Artificial Intelligence
 - 🌱 I’m currently learning a new programming language in C# by building a simple RPG
 - 💞️ I’m looking for opportunities to apply programming and/or machine learning skills in the workforce
