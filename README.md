@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stefan
-- 👀 I’m interested in Software Development and Artificial Intelligence
-- 🌱 I’m currently looking to improve my capapbility in Machine Learning and .NET Core
-- 💞️ I’m looking for opportunities to apply programming and/or machine learning skills in the workforce
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently looking to improve my capapbility in Data Science
+- 💞️ I’m looking for opportunities to apply programming and machine learning skills in the workforce
 - 📫 How to reach me: email - slouie16888@gmail.com
 
 <!---
